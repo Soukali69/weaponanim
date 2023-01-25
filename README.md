@@ -1,3 +1,5 @@
+-- Work on Legacy --
+
 Steps :
 
 1 - Go in your server.cfg
@@ -6,5 +8,3 @@ Steps :
 
 3 - Good game !
 
-
-Work on Legacy
